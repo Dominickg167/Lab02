@@ -1,0 +1,17 @@
+*{
+    background-color: rgba(238, 236, 120, 0.829);
+    text-align: center;
+}
+h2, h3{
+    color: rgb(89, 18, 156);
+}
+#imagen{
+    width: 200px;
+}
+#tabla{
+    margin-left: 470px;
+    border: solid blue
+}
+#tabla_subtitulo{
+    color: red;
+}
